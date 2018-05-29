@@ -3,5 +3,4 @@ INDEX VERSION 1.4+C:\Users\snsql\Desktop\강의평가웹개발\.metadata\.plugins\org.e
 344058307.index
 3236330537.index
 1832659920.index
-1833117051.index
 3839915139.index
