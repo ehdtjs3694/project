@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Lecture Evaluation/WebContent/js/jquery-3.3.1.min.js&apos; to &apos;jquery.min.js&apos;" description="Rename resource &apos;jquery-3.3.1.min.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/js/jquery-3.3.1.min.js" name="jquery.min.js" stamp="1519390454219" updateReferences="true"/>
+</session>
